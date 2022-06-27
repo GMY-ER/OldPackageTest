@@ -18,3 +18,31 @@ func main() {
 	router.OPTIONS("/someOptions", options)
 	router.Run()
 }
+
+func options(context *gin.Context) {
+
+}
+
+func patching(context *gin.Context) {
+
+}
+
+func heading(context *gin.Context) {
+
+}
+
+func deleting(context *gin.Context) {
+
+}
+
+func puting(context *gin.Context) {
+
+}
+
+func posting(context *gin.Context) {
+
+}
+
+func getting(context *gin.Context) {
+
+}
